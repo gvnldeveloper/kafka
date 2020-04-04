@@ -1,0 +1,24 @@
+-classpath
+'/home/gaurav/Stephan/Test/kafka/target/classes:/home/gaurav/.m2/repository/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar:/home/gaurav/.m2/repository/org/slf4j/slf4j-log4j12/1.7.21/slf4j-log4j12-1.7.21.jar:/home/gaurav/.m2/repository/com/thoughtworks/paranamer/paranamer/2.7/paranamer-2.7.jar:/home/gaurav/.m2/repository/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13.jar:/home/gaurav/.m2/repository/net/jpountz/lz4/lz4/1.3.0/lz4-1.3.0.jar:/home/gaurav/.m2/repository/org/tukaani/xz/1.5/xz-1.5.jar:/home/gaurav/.m2/repository/com/101tec/zkclient/0.10/zkclient-0.10.jar:/home/gaurav/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.8.4/jackson-databind-2.8.4.jar:/home/gaurav/.m2/repository/io/confluent/kafka-avro-serializer/3.3.1/kafka-avro-serializer-3.3.1.jar:/home/gaurav/.m2/repository/io/confluent/common-config/3.3.1/common-config-3.3.1.jar:/home/gaurav/.m2/repository/org/codehaus/jackson/jackson-core-asl/1.9.13/jackson-core-asl-1.9.13.jar:/home/gaurav/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.8.0/jackson-annotations-2.8.0.jar:/home/gaurav/.m2/repository/org/xerial/snappy/snappy-java/1.1.1.3/snappy-java-1.1.1.3.jar:/home/gaurav/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar:/home/gaurav/.m2/repository/io/confluent/common-utils/3.3.1/common-utils-3.3.1.jar:/home/gaurav/.m2/repository/org/apache/zookeeper/zookeeper/3.4.10/zookeeper-3.4.10.jar:/home/gaurav/.m2/repository/org/apache/avro/avro/1.8.2/avro-1.8.2.jar:/home/gaurav/.m2/repository/jline/jline/0.9.94/jline-0.9.94.jar:/home/gaurav/.m2/repository/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar:/home/gaurav/.m2/repository/org/apache/kafka/kafka-clients/0.11.0.1/kafka-clients-0.11.0.1.jar:/home/gaurav/.m2/repository/io/confluent/kafka-schema-registry-client/3.3.1/kafka-schema-registry-client-3.3.1.jar:/home/gaurav/.m2/repository/io/netty/netty/3.10.5.Final/netty-3.10.5.Final.jar:/home/gaurav/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.8.4/jackson-core-2.8.4.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/home/gaurav/Stephan/Test/kafka/src/main/java:/home/gaurav/Stephan/Test/kafka/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2020. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/gaurav/Stephan/Test/kafka/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Customer v-1 API'
+-linkoffline
+'http://docs.oracle.com/javase/7/docs/api' '/home/gaurav/Stephan/Test/kafka/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Customer v-1 API'
